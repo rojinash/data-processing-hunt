@@ -4,6 +4,7 @@
 
 ## About
 Rojina Sharma [sharmaro]
+-Got help from Prabir, David, and Esther
 
 ## Data Sources
 Data Set 1: Sugar Content in Breakfast Cereal
