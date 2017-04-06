@@ -22,6 +22,7 @@ Questions Asked:
 
 Data Set 3: Self-Reports on Height and Weight
 url: http://vincentarelbundock.github.io/Rdatasets/datasets.html
+
 Questions Asked:
 1. How many females are shorter than 166cm?
 2. What is the minimum male weight in kilograms?
