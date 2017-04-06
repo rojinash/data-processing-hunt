@@ -8,6 +8,7 @@ Rojina Sharma [sharmaro]
 ## Data Sources
 Data Set 1: Sugar Content in Breakfast Cereal
 url: http://vincentarelbundock.github.io/Rdatasets/datasets.html
+
 Questions Asked:
 1. How many entries have sugar content greater than 40?
 2. What is the maximum sugar content?
@@ -15,6 +16,7 @@ Questions Asked:
 
 Data Set 2: Names by State
 url: https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-data-by-state-and-district-of-
+
 Questions Asked:
 1. How many baby names begin with the letter 'W'?
 2. How many baby names from 1970 contain the letter 'w' but don't begin with it?
